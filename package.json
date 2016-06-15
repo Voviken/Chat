@@ -1,0 +1,17 @@
+{
+  "name": "chat",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "bower": "^1.7.9",
+    "ejs": "*",
+    "express": "3.2.6",
+    "mongodb": "^2.1.18",
+    "nconf": "^0.8.4",
+    "nodemon": "^1.9.2",
+    "winston": "^2.2.0"
+  }
+}
